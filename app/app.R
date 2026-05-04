@@ -19,9 +19,7 @@ features <- c(
   "release_extension"
 )
 
-########################################
-# SHINY APP
-########################################
+### SHINY APP ###
 
 pitcher_choices <- pitch_summary |>
   filter(!is.na(pitcher_name)) |>
