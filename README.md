@@ -1,3 +1,7 @@
+## Research Paper
+
+**Latest Version: [Quantifying the Cost of Allowing Major League Baseball Players to Call Pitches](https://186d71cb-a6c3-45a6-a1ea-9f83768a7685.usrfiles.com/ugd/186d71_8ffa760ba61c4513a5b05f2bc2175fd0.pdf)**
+
 ## Web App
 
 **Live Pitch Recommendation: [andersen-pickard.shinyapps.io/pitch_app/](https://andersen-pickard.shinyapps.io/pitch_app/)**
