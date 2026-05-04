@@ -1,1 +1,1 @@
-**Live Pitch Recommendation Web App: [andersen-pickard.shinyapps.io/pitch_app/]([url](https://andersen-pickard.shinyapps.io/pitch_app/))**
+**Live Pitch Recommendation Web App: [andersen-pickard.shinyapps.io/pitch_app/](https://andersen-pickard.shinyapps.io/pitch_app/)**
