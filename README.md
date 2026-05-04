@@ -3,7 +3,7 @@
 **Live Pitch Recommendation: [andersen-pickard.shinyapps.io/pitch_app/](https://andersen-pickard.shinyapps.io/pitch_app/)**
 
 ## Author
-**Andersen Pickard, Rice University**
+**Andersen Pickard, Rice University** \newline
 _[Click here](https://andersenpickard.wixsite.com/home) for online portfolio_
 
 ## Abstract
